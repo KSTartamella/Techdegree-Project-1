@@ -119,28 +119,29 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background: #0399ff;
+}
 
 
-  ul.resume {
-    padding:0;
-    text-align: center;
 
-  .resume li{
+ul.resume{
+  padding:0
+}
 
+.resume{
+  text-align: center;
+  list-style-type: square;
+}
 
-    }
-
-
-  }
 
 
 footer {
   width: 100%;
-  min-height: 50px;
+  height:30px;
+  margin:20px;
   padding: 20px 0 40px 20px;
 }
 
-footer .copyright {
+footer .copyright  {
   top: -8px;
   font-size: 1.5em;
 }
