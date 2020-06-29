@@ -85,8 +85,8 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 .location {
-  background-color: #222;
-  color: white;
+  background-color: white;
+  color: black;
 }
 .card {
   margin: 30px;
@@ -121,18 +121,8 @@ ul.skills {
   background: #0399ff;
 }
 
-
-
-ul.resume{
-  padding:0
+h1{color:white;  
 }
-
-.resume{
-  text-align: center;
-  list-style-type: square;
-}
-
-
 
 footer {
   width: 100%;
