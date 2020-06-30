@@ -154,7 +154,7 @@ a.social {
   width: 30px;
   height: 30px;
   background-size: 30px 30px;
-  opacity: 4;
+  opacity: 1;
   transition: all .5s;
 }
 a.twitter {
@@ -167,7 +167,7 @@ a.github {
   background-image: url(images/github.svg);
 }
 a.social:hover {
-  opacity: 4;
+  opacity: 1;
 }
 .clearfix {
   clear: both;
